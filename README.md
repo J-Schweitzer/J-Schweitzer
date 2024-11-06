@@ -2,7 +2,7 @@
 
 ## 🌟 Bem-vindo(a)!
 
-Eu sou um estudante de Engenharia da Computação, apaixonado por desenvolver soluções que integram software e hardware. Aqui no meu GitHub, você vai encontrar alguns projetos que desenvolvi explorando linguagens como C, Python e SQL, além de projetos em automação e teoria dos autômatos.
+Eu sou um estudante de Engenharia da Computação, apaixonado por desenvolver soluções que integram software e hardware. Aqui no meu GitHub, você vai encontrar alguns projetos que desenvolvi explorando linguagens como C++, Python e SQL, além de projetos em automação e teoria dos autômatos.
 
 ## 🚀 Sobre Mim
 
