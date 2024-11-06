@@ -20,6 +20,7 @@ Inteligência Artificial e Machine Learning: Estudando redes neurais, algoritmos
 Estou sempre interessado em participar de projetos que tragam desafios e oportunidades de aprendizado. Alguns dos meus objetivos para os próximos meses incluem:
 
 Desenvolver um Compilador Completo: Aprofundar o conhecimento adquirido em compiladores, implementando um projeto completo do zero.
+
 Simulador de Autômatos: Criar um simulador visual para autômatos finitos, ajudando estudantes e profissionais na compreensão dos conceitos.
 
 ## 🌐 Sociais
