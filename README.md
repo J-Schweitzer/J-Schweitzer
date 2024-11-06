@@ -13,6 +13,7 @@ Tenho experiência em desenvolvimento de software e projetos de automação que 
 Estou sempre em busca de novas tecnologias e conhecimentos para expandir minhas habilidades. Atualmente, estou focado nos seguintes tópicos:
 
 Banco de Dados SQL: Explorando conceitos de modelagem de dados, normalização, otimização de consultas e integração de bancos de dados relacionais em projetos de software.
+
 Inteligência Artificial e Machine Learning: Estudando redes neurais, algoritmos de aprendizado supervisionado e não supervisionado, e aplicações práticas de IA em automação e análise de dados.
 
 ## 🎯 Objetivos Futuros
