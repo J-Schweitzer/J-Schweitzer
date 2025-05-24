@@ -2,26 +2,40 @@
 
 ## 🌟 Bem-vindo(a)!
 
-Eu sou um estudante de Engenharia da Computação, apaixonado por desenvolver soluções que integram software e hardware. Aqui no meu GitHub, você vai encontrar alguns projetos que desenvolvi explorando linguagens como C++, Python e SQL, além de projetos em automação e teoria dos autômatos.
+Sou estudante de Engenharia da Computação, com grande interesse em tudo que envolve tecnologia, inovação e integração entre software e hardware. Este espaço reúne não apenas meus projetos, mas também experimentos, estudos, anotações técnicas e ideias que estou explorando ao longo da minha jornada acadêmica e profissional.
 
 ## 🚀 Sobre Mim
 
-Tenho experiência em desenvolvimento de software e projetos de automação que misturam o uso de lógica digital com programação de baixo nível. Sou fascinado pela criação de soluções que otimizem processos e resolvam problemas complexos de forma eficiente. Minha meta é aprofundar meus conhecimentos em engenharia e contribuir para projetos inovadores, explorando tanto o software quanto o hardware.
+Atuo no desenvolvimento de soluções que combinam programação, eletrônica digital e sistemas embarcados. Gosto de investigar problemas a fundo, encontrar soluções criativas e aplicar o conhecimento na prática seja com código, circuitos ou sistemas completos.
 
+Tenho familiaridade com linguagens como C++, Python, Java e SQL, e também com conceitos fundamentais de redes, sistemas operacionais, compiladores, inteligência artificial e automação.
 
-## 📘 Aprendizado Contínuo
-Estou sempre em busca de novas tecnologias e conhecimentos para expandir minhas habilidades. Atualmente, estou focado nos seguintes tópicos:
+💡 Estou sempre aprendendo, testando ideias novas e colaborando com colegas para criar soluções úteis e bem fundamentadas.
 
-Banco de Dados SQL: Explorando conceitos de modelagem de dados, normalização, otimização de consultas e integração de bancos de dados relacionais em projetos de software.
+## 🧠 Áreas de Interesse
 
-Inteligência Artificial e Machine Learning: Estudando redes neurais, algoritmos de aprendizado supervisionado e não supervisionado, e aplicações práticas de IA em automação e análise de dados.
+Desenvolvimento de Software:
+Programação em linguagens como C++, Python, Java e SQL, desenvolvimento de sistemas, estruturas de dados, algoritmos e otimização.
 
-## 🎯 Objetivos Futuros
-Estou sempre interessado em participar de projetos que tragam desafios e oportunidades de aprendizado. Alguns dos meus objetivos para os próximos meses incluem:
+Sistemas Embarcados e Hardware: 
+Microcontroladores, lógica digital, automação, integração entre software e hardware.
 
-Desenvolver um Compilador Completo: Aprofundar o conhecimento adquirido em compiladores, implementando um projeto completo do zero.
+Ciência da Computação: 
+Teoria da computação, linguagens formais, autômatos, construção de compiladores e análise de algoritmos.
 
-Simulador de Autômatos: Criar um simulador visual para autômatos finitos, ajudando estudantes e profissionais na compreensão dos conceitos.
+Banco de Dados: 
+Modelagem, normalização, otimização de consultas e integração com aplicações.
+
+Inteligência Artificial e Machine Learning: 
+Algoritmos de aprendizado, redes neurais, automação inteligente, visão computacional e análise de dados.
+
+## 🎯 O Que Estou Buscando
+
+Estou aberto a novos aprendizados, parcerias, colaborações e desafios. Entre meus objetivos para os próximos meses estão:
+
+Criar ferramentas educacionais e simuladores para auxiliar o aprendizado de conceitos teóricos em computação;
+Participar de projetos que envolvam tanto engenharia de software quanto eletrônica;
+Explorar novas linguagens e ferramentas, ampliando minha base técnica e criativa;
 
 ## 🌐 Sociais
 [LinkedIn](https://www.linkedin.com/in/joão-schweitzer/) | [E-mail](joaoschweitzerrezende@gmail.com)
