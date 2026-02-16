@@ -1,5 +1,5 @@
 # 👨‍💻 João Schweitzer
-### Software Developer | Full Stack | Computer Engineering Student
+### Full Stack Software Developer | Computer Engineering Student
 
 ---
 
