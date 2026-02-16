@@ -1,23 +1,23 @@
 # 👨‍💻 João Schweitzer
-### Desenvolvedor de Software | Full Stack | Engenharia de Computação
+### Software Developer | Full Stack | Computer Engineering Student
 
 ---
 
-## 🌟 Bem-vindo(a)!
+## 🌟 Welcome!
 
-Sou estudante de **Engenharia da Computação**, focado no desenvolvimento de softwares eficientes, escaláveis e bem estruturados. Este espaço reúne meus projetos de desenvolvimento web, estudos de arquitetura de sistemas e experimentos com novas tecnologias.
+I am a **Computer Engineering** student focused on developing efficient, scalable, and well-structured software. This space showcases my web development projects, systems architecture studies, and experiments with emerging technologies.
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Atuo na construção de aplicações modernas, unindo o rigor técnico da engenharia com a agilidade do ecossistema JavaScript/TypeScript. Gosto de entender como as coisas funcionam "por baixo do capô", desde a otimização de consultas em bancos de dados até a renderização de componentes no front-end.
+I build modern applications by combining the technical rigor of engineering with the agility of the JavaScript/TypeScript ecosystem. I enjoy understanding how things work "under the hood," from database query optimization to front-end component rendering.
 
-* **💻 Web Stack:** Criação de interfaces responsivas e APIs robustas.
-* **🎓 Fundamentos:** Sólido conhecimento em Estrutura de Dados, Algoritmos e Compiladores.
-* **💡 Mindset:** Foco em código limpo, performance e experiência do usuário.
+* **💻 Web Stack:** Developing responsive interfaces and robust APIs.
+* **🎓 Fundamentals:** Solid knowledge in Data Structures, Algorithms, and Compilers.
+* **💡 Mindset:** Focused on clean code, performance, and user experience.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
 ### 🌐 Front-End & Frameworks
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -34,22 +34,22 @@ Atuo na construção de aplicações modernas, unindo o rigor técnico da engenh
 
 ---
 
-## 🧠 Áreas de Interesse
+## 🧠 Areas of Interest
 
-* **Desenvolvimento Full Stack:** Construção de aplicações ponta a ponta com Next.js e Node.js.
-* **Ciência da Computação:** Teoria da computação, análise de algoritmos e otimização de sistemas.
-* **Banco de Dados:** Modelagem relacional, normalização e performance de queries.
-* **Inteligência Artificial:** Integração de modelos de aprendizado de máquina em aplicações de software.
+* **Full Stack Development:** Building end-to-end applications with Next.js and Node.js.
+* **Computer Science:** Computing theory, algorithm analysis, and systems optimization.
+* **Databases:** Relational modeling, normalization, and query performance.
+* **Artificial Intelligence:** Integrating machine learning models into software applications.
 
-## 🎯 No que estou trabalhando
+## 🎯 Current Focus
 
-- [ ] Aprimorando conhecimentos em **Next.js 14 (App Router)** e Server Actions.
-- [ ] Desenvolvendo simuladores educacionais para conceitos complexos de computação.
-- [ ] Explorando arquiteturas de microserviços e escalabilidade de software.
+- [ ] Enhancing skills in **Next.js (App Router)** and Server Actions.
+- [ ] Developing educational simulators for complex computing concepts.
+- [ ] Exploring microservices architecture and software scalability.
 
 ---
 
-### 📈 Contato
+### 📈 Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/joão-schweitzer/">
