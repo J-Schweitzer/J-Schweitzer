@@ -1,41 +1,60 @@
-# 👨‍💻 João Schweitzer – Desenvolvedor de Software e Hardware
+# 👨‍💻 João Schweitzer
+### Desenvolvedor de Software & Engenharia de Computação
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/joão-schweitzer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:joaoschweitzerrezende@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+---
 
 ## 🌟 Bem-vindo(a)!
 
-Sou estudante de Engenharia da Computação, com grande interesse em tudo que envolve tecnologia, inovação e integração entre software e hardware. Este espaço reúne não apenas meus projetos, mas também experimentos, estudos, anotações técnicas e ideias que estou explorando ao longo da minha jornada acadêmica e profissional.
+Sou estudante de **Engenharia da Computação**, apaixonado pela intersecção entre o bit e o átomo. Este espaço é meu laboratório digital, onde documento minha jornada acadêmica e profissional através de projetos que vão de sistemas de baixo nível a aplicações de alto desempenho.
 
 ## 🚀 Sobre Mim
 
-Atuo no desenvolvimento de soluções que combinam programação, eletrônica digital e sistemas embarcados. Gosto de investigar problemas a fundo, encontrar soluções criativas e aplicar o conhecimento na prática seja com código, circuitos ou sistemas completos.
+Atuo no desenvolvimento de soluções que combinam programação, eletrônica digital e sistemas embarcados. Meu foco é entender o problema "da base ao topo" — do hardware ao software.
 
-Tenho familiaridade com linguagens como C++, Python, Java e SQL, e também com conceitos fundamentais de redes, sistemas operacionais, compiladores, inteligência artificial e automação.
+* **🎓 Acadêmico:** Explorando Teoria da Computação, Compiladores e IA.
+* **⚙️ Prática:** Desenvolvimento de sistemas robustos com C++, Python e Java.
+* **💡 Mindset:** Sempre aprendendo, testando e colaborando em soluções bem fundamentadas.
 
-💡 Estou sempre aprendendo, testando ideias novas e colaborando com colegas para criar soluções úteis e bem fundamentadas.
+---
 
-## 🧠 Áreas de Interesse
+## 🛠️ Tecnologias e Ferramentas
 
-Desenvolvimento de Software:
-Programação em linguagens como C++, Python, Java e SQL, desenvolvimento de sistemas, estruturas de dados, algoritmos e otimização.
+### 💻 Software & Data
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-Sistemas Embarcados e Hardware: 
-Microcontroladores, lógica digital, automação, integração entre software e hardware.
+### 🔌 Hardware & Embarcados
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-0081A7?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Logic Digital](https://img.shields.io/badge/Digital_Logic-FFB703?style=flat-square)
 
-Ciência da Computação: 
-Teoria da computação, linguagens formais, autômatos, construção de compiladores e análise de algoritmos.
+---
 
-Banco de Dados: 
-Modelagem, normalização, otimização de consultas e integração com aplicações.
+## 🧠 Áreas de Foco
 
-Inteligência Artificial e Machine Learning: 
-Algoritmos de aprendizado, redes neurais, automação inteligente, visão computacional e análise de dados.
+* **Sistemas Embarcados:** Microcontroladores, lógica digital e automação.
+* **Ciência da Computação:** Estruturas de dados, compiladores e análise de algoritmos.
+* **IA & Machine Learning:** Visão computacional e análise de dados aplicada.
+* **Banco de Dados:** Modelagem, normalização e otimização de consultas.
 
-## 🎯 O Que Estou Buscando
+## 🎯 Objetivos Atuais
 
-Estou aberto a novos aprendizados, parcerias, colaborações e desafios. Entre meus objetivos para os próximos meses estão:
+- [ ] Criar simuladores para conceitos teóricos de computação.
+- [ ] Colaborar em projetos que integrem engenharia de software e eletrônica.
+- [ ] Expandir conhecimentos em arquitetura de sistemas e sistemas operacionais.
 
-Criar ferramentas educacionais e simuladores para auxiliar o aprendizado de conceitos teóricos em computação;
-Participar de projetos que envolvam tanto engenharia de software quanto eletrônica;
-Explorar novas linguagens e ferramentas, ampliando minha base técnica e criativa;
+---
 
-## 🌐 Sociais
-[LinkedIn](https://www.linkedin.com/in/joão-schweitzer/) | [E-mail](joaoschweitzerrezende@gmail.com)
+### 📈 Estatísticas do GitHub
+![Estatísticas do GitHub de João](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
