@@ -1,14 +1,7 @@
 # 👨‍💻 João Schweitzer
 ### Desenvolvedor de Software & Engenharia de Computação
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/joão-schweitzer/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:joaoschweitzerrezende@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+
 
 ---
 
@@ -56,5 +49,12 @@ Atuo no desenvolvimento de soluções que combinam programação, eletrônica di
 
 ---
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/joão-schweitzer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+
 ### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub de João](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)
+![Estatísticas do GitHub de João](https://github-readme-stats.vercel.app/api?username=J-Schweitzer&show_icons=true&theme=radical)
